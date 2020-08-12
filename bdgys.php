@@ -1,1 +1,1 @@
-{ "app": [ { "url": "market://details?id=com.bdguysatschool.gamewalktrough", "image": "https://i.imgur.com/7v34RNZ.png", "update": "yes" } ] }
+{ "app": [ { "url": "market://details?id=com.bdguysatschool.gamewalktrough", "image": "https://i.imgur.com/OcEDF3H.png", "update": "yes" } ] }
