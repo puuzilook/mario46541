@@ -1,1 +1,1 @@
-{ "app": [ { "url": "https://t.co/z4uaG7Thwm", "image": "https://i.imgur.com/OcEDF3H.png", "update": "yes", "dismiss": "yes", "siteurl": "https://google.com", "siteimage": "https://i.imgur.com/OcEDF3H.png", "siteupdate": "no" } ] }
+{ "app": [ { "url": "https://t.co/z4uaG7Thwm", "image": "https://i.imgur.com/OcEDF3H.png", "update": "yes", "dismiss": "yes", "siteurl": "https://google.com", "siteimage": "https://i.imgur.com/OcEDF3H.png", "siteupdate": "yes" } ] }
