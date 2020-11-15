@@ -1,1 +1,1 @@
-{ "app": [ { "url": "market://details?id=com.fallguysmobile.walktrough", "image": "https://i.imgur.com/OcEDF3H.png", "update": "no", "dismiss": "yes", "siteurl": "https://google.com", "siteimage": "https://i.imgur.com/OcEDF3H.png", "siteupdate": "no" } ] }
+{ "app": [ { "url": "market://details?id=com.fallguysmobile.walktrough", "image": "https://i.imgur.com/OcEDF3H.png", "update": "no", "dismiss": "yes", "siteurl": "https://google.com", "siteimage": "https://i.imgur.com/OcEDF3H.png", "siteupdate": "no", "cpalink": "https://www.google.com" } ] }
